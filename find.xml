@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'processingx'" />
-    <option name="defaultScopeName" value="Project 'processingx'" />
-    <option name="SEARCH_SCOPE" value="Project 'processingx'" />
+    <option name="customScope" value="Project 'kprefs'" />
+    <option name="defaultScopeName" value="Project 'kprefs'" />
+    <option name="SEARCH_SCOPE" value="Project 'kprefs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
