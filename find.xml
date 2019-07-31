@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'kprefs'" />
-    <option name="defaultScopeName" value="Project 'kprefs'" />
-    <option name="SEARCH_SCOPE" value="Project 'kprefs'" />
+    <option name="customScope" value="Project 'kommon'" />
+    <option name="defaultScopeName" value="Project 'kommon'" />
+    <option name="SEARCH_SCOPE" value="Project 'kommon'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
