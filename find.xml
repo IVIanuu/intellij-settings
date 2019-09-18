@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../compose/src/main/kotlin/com/ivianuu/compose [compose]'" />
+    <option name="defaultScopeName" value="Directory '.../compose/src/main/kotlin/com/ivianuu/compose [compose]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../compose/src/main/kotlin/com/ivianuu/compose [compose]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
